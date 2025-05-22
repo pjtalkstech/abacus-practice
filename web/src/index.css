@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom playful font for kids */
+body {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+}
